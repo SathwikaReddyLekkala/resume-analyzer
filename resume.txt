@@ -1,0 +1,2 @@
+Python developer with experience in data analysis, machine learning, pandas, and APIs.
+Worked on Flask web development and REST APIs.

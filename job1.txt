@@ -1,0 +1,2 @@
+Looking for a Python developer with knowledge in APIs, pandas, and machine learning.
+Should be able to work with REST services and manage data pipelines.
